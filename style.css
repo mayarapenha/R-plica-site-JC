@@ -1,0 +1,35 @@
+
+
+body { margin: 0; padding: 0; background: #EEEEEE; }
+
+article {
+    padding: 20px;
+    width: 920px;
+    margin: 0 auto;
+    background: #FFFFFF;
+}
+h1{
+    color: red;
+}
+
+header h1 {
+    color: black;
+    font-size: 35px;
+}
+
+header h2 {
+    font-size: 15px;
+    font-weight: normal;
+}
+
+p a.novo-coronavirus {
+    color: red;
+}
+
+p a.desde{
+    color: red;
+}
+
+h3 a.corona{
+    color: red;
+}
